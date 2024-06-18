@@ -1,0 +1,603 @@
+.home_body {
+    position: relative;
+}
+
+.needed_for_slide:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f7f9fe;
+    width: 100%;
+    height: 21%;
+    background-image: url(/wp-content/uploads/2024/04/fresh-fruit-grocery-background-homepage-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.home_sliding_0:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(239, 233, 199, 1) 100%); */
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(0,181,228,0.7) 40%, rgba(0,222,197,1) 100%); */
+    background-color: #f7f9fe;
+    width: 100%;
+    height: 21%;
+    background-image: url(/wp-content/uploads/2024/04/fresh-fruit-grocery-background-homepage-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.home_sliding_1:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(239, 233, 199, 1) 100%); */
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(0,181,228,0.7) 40%, rgba(0,222,197,1) 100%); */
+    background-color: #F8D4E4;
+    width: 100%;
+    height: 21%;
+    background-image: url(/wp-content/uploads/2021/10/bottles_chicken_graphice.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* background-position: right; */
+}
+
+.home_sliding_2:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(239, 233, 199, 1) 100%); */
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(0,181,228,0.7) 40%, rgba(0,222,197,1) 100%); */
+    background-color: #FCFCE6;
+    width: 100%;
+    height: 21%;
+    background-image: url(/wp-content/uploads/2022/03/Background-Header-EN.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* background-position: right; */
+}
+
+.home_sliding_3:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(239, 233, 199, 1) 100%); */
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(0,181,228,0.7) 40%, rgba(0,222,197,1) 100%); */
+    background-color: #fbf7ee;
+    width: 100%;
+    height: 21%;
+    background-image: url(/wp-content/uploads/2021/10/bottles_chicken_graphice.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+.home_sliding_4:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(239, 233, 199, 1) 100%); */
+    /* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(0,181,228,0.7) 40%, rgba(0,222,197,1) 100%); */
+    background-color: #CEE3C6;
+    width: 100%;
+    height: 21%;
+    background-image: url(/wp-content/uploads/2022/02/fresh_f_v_graphic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: right; */
+}
+
+/* .home_sliding_3:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0; */
+
+/* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(0,181,228,0.7) 40%, rgba(0,222,197,1) 100%); */
+
+/* background: linear-gradient(0deg, rgba(247,249,254,1) 0%, rgba(0,181,228,0.7) 40%, rgba(0,222,197,1) 100%); */
+
+/* background: #f8d4e4;
+    width: 100%;
+    height: 21%;
+} */
+
+.martoo_home_category_row {
+    padding-top: 10px;
+}
+
+/* .home_sliding_2 .martoo_home_category_row h2.martoo_heading,
+.needed_for_slide .martoo_home_category_row h2.martoo_heading {
+    color: #fff;
+    border-left-color: #fff;
+} */
+
+.home_sliding_5:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*  background: linear-gradient(0deg, rgba(255,43,101,1) 0%, rgb(236 193 193) 100%); */
+    background: #f8d4e4;
+    width: 100%;
+    height: 21%;
+}
+
+#home_hero_slider.owl-carousel .owl-item {
+    border: 0;
+    margin-left: 2px;
+}
+
+#home_hero_slider .single_banner_item {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#home_hero_slider .single_banner_item .hero-text {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+/* #home_hero_slider .single_banner_item .hero-text.ramadan_slide_text {
+    position: absolute;
+    bottom: 12%;
+    top: unset;
+    right: 34%;
+    left: unset;
+    transform: translateX(7%);
+    
+} */
+
+#home_hero_slider .single_banner_item .hero-text.ramadan_slide_text {
+    position: absolute;
+    bottom: 42%;
+    top: unset;
+    right: 12%;
+    left: unset;
+    transform: translateX(50%);
+}
+
+#home_hero_slider .single_banner_item .hero-text.save_money_with_grocery_slide_text {
+    position: absolute;
+    top: unset;
+    bottom: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(-10%, -50%);
+}
+
+#home_hero_slider .hero-text .slider-text {
+    font-size: 8em;
+    line-height: 1;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+#home_hero_slider .single_banner_item .hero-text.save_money_with_grocery_slide_text .slider-text {
+    font-size: 6em;
+}
+
+#home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .small_one {
+    color: #707070;
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 1rem !important;
+}
+
+#home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .big_one {
+    font-weight: bold;
+    color: var(--martoo_green_color);
+    font-size: 8rem;
+    font-family: 'latoblack';
+}
+
+#home_hero_slider .hero-text .slider-btn {
+    font-size: 4em;
+    line-height: 1;
+    border-radius: 15px;
+    display: inline-block;
+    margin-top: 1em;
+}
+
+#home_hero_slider .hero-text .slider-btn.red_cap_shop_now_button {
+    margin-top: 2em;
+    margin-right: auto;
+    display: block;
+    width: fit-content;
+    font-size: 2.5rem;
+    /* font-weight: bold; */
+    padding: .7em 1.5em;
+}
+
+#home_hero_slider .hero-text .slider-btn.ramadan_custom_btn,
+#home_hero_slider .hero-text .slider-btn.save_money_with_grocery_custom_btn {
+    background-color: var(--martoo_red_color);
+    color: #fff;
+    border: none;
+}
+
+#home_hero_slider .hero-text .slider-btn.ramadan_custom_btn:hover,
+#home_hero_slider .hero-text .slider-btn.save_money_with_grocery_custom_btn:hover {
+    background-color: var(--martoo_red_color);
+    color: #fff;
+    border: none;
+}
+
+#home_hero_slider .hero-text .slider-btn.ramadan_custom_btn {
+    background-color: var(--martoo_green_color);
+    padding: .6em 1em;
+    border-radius: 1em;
+}
+
+#home_hero_slider .hero-text .slider-btn.ramadan_custom_btn.halwa_button {
+    background-color: #a1b0db;
+}
+
+#home_hero_slider .hero-text .slider-btn.ramadan_custom_btn.halwa_button:hover {
+    background-color: var(--martoo_red_color);
+}
+
+#home_hero_slider .hero-text .slider-btn.ramadan_custom_btn:hover {
+    background-color: var(--martoo_green_color);
+}
+
+#home_hero_slider .hero-text .slider-btn.save_money_with_grocery_custom_btn {
+    padding: .3em 1em;
+}
+
+#home_hero_slider .owl-stage-outer {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+#home_hero_slider .owl-item.active .slider-text {
+    -webkit-animation: 1s fadeInUp forwards;
+    animation: 1s fadeInUp forwards;
+}
+
+#home_hero_slider .owl-item.active .slider-btn {
+    -webkit-animation: 1s fadeInUp forwards;
+    animation: 1s fadeInUp forwards;
+}
+
+#home_hero_slider.owl-carousel .owl-nav {
+    top: 45%;
+}
+
+#home_hero_slider.owl-carousel .owl-nav .owl-prev {
+    left: 10px;
+    padding: 1em 1.2em;
+}
+
+#home_hero_slider.owl-carousel .owl-nav .owl-next {
+    right: 10px;
+    padding: 1em 1.2em;
+}
+
+#home_hero_slider.owl-carousel .owl-nav i {
+    font-size: 1rem;
+}
+
+#home_hero_slider.owl-carousel .owl-dots {
+    position: relative;
+    bottom: 1em;
+    z-index: 99;
+    text-align: center;
+}
+
+#home_hero_slider.owl-carousel .owl-dots button.owl-dot {
+    background: var(--martoo_light_grey_color);
+    margin: 0 2px;
+    border: 0;
+    padding: .3em 1em;
+}
+
+#home_hero_slider.owl-carousel .owl-dots button.owl-dot.active {
+    background: var(--martoo_00_red_color);
+}
+
+.home_sliding_2 .red_cap_banner_text_holder p,
+.needed_for_slide .red_cap_banner_text_holder p {
+    color: var(--martoo_00_red_color) !important;
+}
+
+#home_hero_slider .single_banner_item .hero-text.big_sale_2020_text_holder {
+    position: absolute;
+    right: 30%;
+    top: 10%;
+    transform: translateY(-50%);
+}
+
+#home_hero_slider .hero-text .slider-btn.big_sale_2020_btn {
+    padding: 0.4em 1.2em;
+    font-size: 2rem;
+}
+
+@media only screen and (max-width: 2560px) {
+    #home_hero_slider .hero-text .slider-text {
+        font-size: 7em;
+    }
+    #home_hero_slider .hero-text .slider-btn {
+        font-size: 4em;
+    }
+    #home_hero_slider .hero-text .slider-btn.ramadan_custom_btn {
+        font-size: 3em;
+    }
+    #home_hero_slider .single_banner_item .hero-text.save_money_with_grocery_slide_text .slider-text {
+        font-size: 5em;
+    }
+}
+
+@media only screen and (max-width: 1920px) {
+    #home_hero_slider .hero-text .slider-text {
+        font-size: 5em;
+    }
+    #home_hero_slider .hero-text .slider-btn {
+        font-size: 3em;
+    }
+    #home_hero_slider .hero-text .slider-btn.ramadan_custom_btn {
+        font-size: 2em;
+    }
+    /* #home_hero_slider .single_banner_item .hero-text.ramadan_slide_text {
+        right: 34%;
+    } */
+    #home_hero_slider .single_banner_item .hero-text.save_money_with_grocery_slide_text .slider-text {
+        font-size: 4em;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .small_one {
+        font-size: 3rem;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .big_one {
+        font-size: 6.2rem;
+    }
+    #home_hero_slider .hero-text .slider-btn.red_cap_shop_now_button {
+        margin-top: 1.5em;
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width: 1500px) {
+    .needed_for_slide:before,
+    .home_sliding_0:before,
+    .home_sliding_1:before,
+    .home_sliding_2:before,
+    .home_sliding_3:before,
+    .home_sliding_4:before {
+        height: 19%;
+    }
+    #home_hero_slider .hero-text .slider-text {
+        font-size: 4em;
+    }
+    #home_hero_slider .hero-text .slider-btn {
+        padding: .3em;
+    }
+    /* #home_hero_slider .hero-text .slider-btn.ramadan_custom_btn {
+        font-size: 1.5em;
+        padding: .3em 1em;
+    } */
+    #home_hero_slider .single_banner_item .hero-text.save_money_with_grocery_slide_text .slider-text {
+        font-size: 2.5em;
+    }
+    #home_hero_slider .hero-text .slider-btn.save_money_with_grocery_custom_btn {
+        padding: .3em 1em;
+        margin-top: 0.5em;
+        font-size: 2em;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .small_one {
+        font-size: 2rem;
+        margin-bottom: .5rem !important;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .big_one {
+        font-size: 4rem;
+    }
+    #home_hero_slider .hero-text .slider-btn.red_cap_shop_now_button {
+        margin-top: 1.5em;
+        font-size: 1.5rem;
+    }
+    #home_hero_slider .hero-text .slider-btn.big_sale_2020_btn {
+        padding: 0.4em 1.2em;
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 1199.9px) {
+    .needed_for_slide:before,
+    .home_sliding_0:before,
+    .home_sliding_1:before,
+    .home_sliding_2:before,
+    .home_sliding_3:before,
+    .home_sliding_4:before {
+        height: 16%;
+    }
+    #home_hero_slider .hero-text .slider-text {
+        font-size: 3em;
+    }
+    #home_hero_slider .hero-text .slider-btn {
+        font-size: 2em;
+    }
+    #home_hero_slider.owl-carousel .owl-nav .owl-prev,
+    #home_hero_slider.owl-carousel .owl-nav .owl-next {
+        padding: .35em .64em;
+    }
+    #home_hero_slider.owl-carousel .owl-nav i {
+        font-size: .8rem;
+    }
+    #home_hero_slider .single_banner_item .hero-text.save_money_with_grocery_slide_text .slider-text {
+        font-size: 2em;
+    }
+    #home_hero_slider .hero-text .slider-btn.save_money_with_grocery_custom_btn {
+        font-size: 1.5em;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .small_one {
+        font-size: 1.5rem;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .big_one {
+        font-size: 3rem;
+    }
+    #home_hero_slider .hero-text .slider-btn.red_cap_shop_now_button {
+        margin-top: 1em;
+        font-size: 1rem;
+    }
+    #home_hero_slider .hero-text .slider-btn.big_sale_2020_btn {
+        padding: 0.4em 1.2em;
+        font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width: 991.9px) {
+    .needed_for_slide:before,
+    .home_sliding_0:before,
+    .home_sliding_1:before,
+    .home_sliding_2:before,
+    .home_sliding_3:before,
+    .home_sliding_4:before {
+        height: 11%;
+    }
+    #home_hero_slider .hero-text .slider-btn.ramadan_custom_btn {
+        font-size: 1.2em;
+        /* padding: .3em 1em; */
+    }
+}
+
+@media only screen and (max-width: 767.9px) {
+    #home_hero_slider {
+        padding-top: 1em;
+    }
+    .needed_for_slide:before,
+    .home_sliding_0:before,
+    .home_sliding_1:before,
+    .home_sliding_2:before,
+    .home_sliding_3:before,
+    .home_sliding_4:before {
+        height: 9%;
+    }
+    .only_banner_homepage_container {
+        padding: 0;
+        margin-bottom: 0;
+    }
+    #home_hero_slider .owl-stage-outer {
+        border-radius: 0;
+    }
+    #home_hero_slider .hero-text .slider-text {
+        font-size: 2em;
+    }
+    #home_hero_slider .hero-text .slider-btn {
+        padding: 10px;
+    }
+    #home_hero_slider .hero-text .slider-btn.ramadan_custom_btn {
+        font-size: 1em;
+        /* padding: .3em 1em; */
+    }
+    #home_hero_slider .single_banner_item img {
+        border-radius: 0;
+    }
+    #home_hero_slider .single_banner_item .hero-text.save_money_with_grocery_slide_text {
+        width: 100%;
+    }
+    #home_hero_slider .single_banner_item .hero-text.save_money_with_grocery_slide_text .slider-text {
+        font-size: 1.2em;
+        text-align: center;
+    }
+    #home_hero_slider .hero-text .slider-btn.save_money_with_grocery_custom_btn {
+        font-size: 1em;
+        padding: 5px 1em;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .small_one {
+        font-size: 1rem;
+        margin-bottom: .5rem !important;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .big_one {
+        font-size: 2rem;
+    }
+    #home_hero_slider .hero-text .slider-btn.red_cap_shop_now_button {
+        margin-top: 1em;
+        font-size: 1em;
+        padding: .5em 1em;
+    }
+    #home_hero_slider .single_banner_item .hero-text {
+        left: 35%;
+    }
+    #home_hero_slider .hero-text .slider-btn.big_sale_2020_btn {
+        padding: 0.3em 1em;
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width: 575.9px) {
+    .needed_for_slide:before,
+    .home_sliding_0:before,
+    .home_sliding_1:before,
+    .home_sliding_2:before,
+    .home_sliding_3:before,
+    .home_sliding_4:before {
+        height: 7.5%;
+    }
+    /* .needed_for_slide:before,
+    .home_sliding_2:before {
+        background-position: 180%;
+    } */
+    #home_hero_slider .hero-text .slider-text {
+        font-size: 1em;
+    }
+    /* #home_hero_slider .single_banner_item .hero-text.ramadan_slide_text {
+        right: 18%;
+        bottom: 8%;
+    } */
+    #home_hero_slider .hero-text .slider-btn {
+        font-size: 1em;
+        padding: 5px;
+    }
+    #home_hero_slider.owl-carousel .owl-dots {
+        bottom: .5em;
+    }
+    #home_hero_slider.owl-carousel .owl-dots button.owl-dot {
+        padding: .1em .8em;
+    }
+    /* #home_hero_slider .hero-text .slider-btn.ramadan_custom_btn {
+        font-size: .8em;
+        padding: .5em 1em;
+    } */
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .small_one {
+        font-size: .8rem;
+        margin-bottom: .2rem !important;
+    }
+    #home_hero_slider .single_banner_item .hero-text.red_cap_banner_text_holder .big_one {
+        font-size: 1.2rem;
+    }
+    #home_hero_slider .single_banner_item .hero-text {
+        top: 84%;
+        left: 27%;
+    }
+    #home_hero_slider .hero-text .slider-btn.big_sale_2020_btn {
+        padding: 0.2em .5em;
+        font-size: .8rem;
+    }
+}
+
+@media only screen and (max-width: 375.9px) {
+    /* .needed_for_slide:before,
+    .home_sliding_2:before {
+        background-position: 200%;
+    } */
+    #home_hero_slider .single_banner_item .hero-text.ramadan_slide_text {
+        bottom: 36%;
+    }
+    #home_hero_slider .hero-text .slider-btn.ramadan_custom_btn {
+        padding: .5em;
+    }
+}
